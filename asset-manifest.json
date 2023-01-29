@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Defi-App/static/css/main.833108f7.css",
+    "main.js": "/React-Defi-App/static/js/main.d66f9437.js",
+    "static/js/787.b0da207e.chunk.js": "/React-Defi-App/static/js/787.b0da207e.chunk.js",
+    "static/media/hero.svg": "/React-Defi-App/static/media/hero.b08317a7d52c6a2bd97f3b40bf20f8c5.svg",
+    "static/media/dev.svg": "/React-Defi-App/static/media/dev.19f6612f5fa374d900af28019eb357e4.svg",
+    "static/media/blockchain2.jpg": "/React-Defi-App/static/media/blockchain2.cc6a2220571f1101341d.jpg",
+    "static/media/blockchain1.jpg": "/React-Defi-App/static/media/blockchain1.5ef3fb08d06ca8c5580d.jpg",
+    "static/media/blockchain3.jpg": "/React-Defi-App/static/media/blockchain3.a993961601b1fbe30016.jpg",
+    "static/media/profit1.svg": "/React-Defi-App/static/media/profit1.6cf10868d60e9afc63ab6784c3a8b87b.svg",
+    "static/media/insurance1.svg": "/React-Defi-App/static/media/insurance1.5d8161dcc687c93267a74665ad29a72c.svg",
+    "static/media/wallet1.svg": "/React-Defi-App/static/media/wallet1.5f22fe743d84027aad95111599b03bd8.svg",
+    "static/media/discord2.svg": "/React-Defi-App/static/media/discord2.4e00e15f7a125f1259e76932aaccec6c.svg",
+    "static/media/discord.svg": "/React-Defi-App/static/media/discord.f499d163e5b8eb0af65229dc6e9efe43.svg",
+    "static/media/blog.svg": "/React-Defi-App/static/media/blog.e354c036b7319067dcd81b463c6c4cbb.svg",
+    "static/media/youtube2.svg": "/React-Defi-App/static/media/youtube2.ae5aa12c038b37e8932076d273245bc4.svg",
+    "static/media/twitter.svg": "/React-Defi-App/static/media/twitter.edbe6c9773fe9219097577d136c880f0.svg",
+    "static/media/youtube.svg": "/React-Defi-App/static/media/youtube.1f30f6d5e3cede87f331dc8737e077bd.svg",
+    "index.html": "/React-Defi-App/index.html",
+    "static/media/menu.svg": "/React-Defi-App/static/media/menu.3c6d26e95d49a925eac3ab47f232f842.svg",
+    "static/media/telegram.svg": "/React-Defi-App/static/media/telegram.4907a7c8baadc09079742f3582dd478c.svg",
+    "static/media/paper.svg": "/React-Defi-App/static/media/paper.787d56f59f2c311df111d1c34a58a7a6.svg",
+    "static/media/search.svg": "/React-Defi-App/static/media/search.517f20f7067ddc194ae21d1680c6b6ec.svg",
+    "main.833108f7.css.map": "/React-Defi-App/static/css/main.833108f7.css.map",
+    "main.d66f9437.js.map": "/React-Defi-App/static/js/main.d66f9437.js.map",
+    "787.b0da207e.chunk.js.map": "/React-Defi-App/static/js/787.b0da207e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.833108f7.css",
+    "static/js/main.d66f9437.js"
+  ]
+}
